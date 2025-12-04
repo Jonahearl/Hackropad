@@ -21,10 +21,11 @@ Others:
 - Base.step
 
 # Schematic image
-  <img width="446" height="396" alt="image" src="https://github.com/user-attachments/assets/e44875fe-a4ef-4d6d-8d25-0fac0e6d1ff7" />
+  <img width="526" height="415" alt="image" src="https://github.com/user-attachments/assets/d04e16b7-f03a-4081-9f4c-014e5911ce01" />
 
 # PCB image
-  <img width="170" height="247" alt="image" src="https://github.com/user-attachments/assets/5cc08642-59e6-411c-8c37-a65205c2573c" />
+  <img width="519" height="619" alt="image" src="https://github.com/user-attachments/assets/9158ffa5-aeaf-4602-9919-5c8dcac08a0d" />
+
 
 # Cad images
 <img width="464" height="674" alt="image" src="https://github.com/user-attachments/assets/16e6ac85-2c4e-4a9b-bfe7-bc4f578a55cb" />
