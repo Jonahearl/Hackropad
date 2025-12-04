@@ -3,7 +3,7 @@
 
 I have tried to create a macropad which will allow me to do some fun things especially with what i'm hoping will work like arrow keys.
 
-This is my first ever PCB and is actually quite sadly 102.2mm long which I am hoping won't matter cause I only saw that at the end...
+This is my first ever PCB
 I also just realised I don't actually know how to code in python so whatever I do probably won't even work haha
 
 # Specifications
