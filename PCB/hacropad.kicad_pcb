@@ -10592,6 +10592,96 @@
 		(layer "B.Cu")
 		(uuid "3f8481d4-063a-44d0-91bc-e2e13b365d46")
 	)
+	(gr_text "Well well well it looks\nlike you know how a\nscrewdriver works."
+		(at 157.89 95.84 0)
+		(layer "F.Cu")
+		(uuid "58494fbc-d1cc-4462-bd1a-31dfa9b20d24")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "XIAO HERE!"
+		(at 141.25 37.53 0)
+		(layer "F.Cu")
+		(uuid "5c8e3f69-5d4b-4afc-b1ca-209059cd43ab")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "YOLO!!"
+		(at 116.74 86.64 0)
+		(layer "F.Cu")
+		(uuid "7aa2a90c-d8f2-4055-89e3-542a8db90643")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "The Hacropad\nBy KIS"
+		(at 113.37 28.87 0)
+		(layer "F.Cu")
+		(uuid "7ef29773-1d2b-430c-b70f-965fa986c70f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Can I have some...?"
+		(at 112.91 116.38 180)
+		(layer "B.Cu")
+		(uuid "5938423e-52bc-4b51-b9a0-5d373de98346")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Great baking"
+		(at 112.69 119.49 180)
+		(layer "B.Cu")
+		(uuid "741cfd24-c182-4622-99f7-807249efcf8e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "                                                         \n                                                         \n                                    ............         \n                       ...............:::::---...        \n           .................:-++**#*+=-=+====--:...      \n           ....:-=+++==+++=+#%@@*-%@@#*#%#----:-:..      \n  ....+***#######++=:-+==+%@++@#==@%-+*+*%#*=----:..     \n...+%%%%%%%%%%###*+=+++=+*%@@##%@***=#%**#%@#=----:..    \n...**%%%#%#####****+++++*%##%%@@*+++++=+*#%@%*=----:.    \n..-**#%#%********++++++++%@@@@@@#+++++++%@@@@@#-----...  \n .-..-###%***++++++=++=++**####%@@#*++*@@@%%%%%=-----..  \n .....+#%*#**+++++++++++=++#@@@@@%@@@%%@%%%@@%======--.  \n     .:*%%#*******+++++***+=+**#%@@@@#@@@#@@#====--==+:  \n     ..-*%%#*#########*+=-+***++**##*#%%#*#*********+=.  \n      ..+#%%##########*+==-:-=+******############*-:...  \n       ..##%%*#########******###%#%%%%%%%%%%%%%%#*-:.    \n        .-##%#*#####%%%%%%%%%%%%%%%%%%%%%@%##-:....      \n        ..+++*#%%%%%%%%%%%%%@%%@%%##%%%%%#*:::...        \n        ...#***%%%%@@@%@@@@@@%%%#**+=-::.........        \n        ...:***#=-:.:+=-#*==-:::.............            \n        ....-*==-............................            \n           ..=-...     ..                                \n            ..:...                                       \n             ...                                         "
+		(at 184.65 45.57 0)
+		(layer "B.Cu")
+		(uuid "7b5f42ed-acc8-4bbc-8fcb-a6be7c0eb36a")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 138.68 59.8)
 		(end 157.85 59.8)
