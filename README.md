@@ -9,7 +9,7 @@ I also just realised I don't actually know how to code in python so whatever I d
 # Specifications
 BOM
 - 10x Cherry MX Switches
-- 10x SK6812 MINI Leds
+- 14x SK6812 MINI Leds
 - 1x XIAO RP2040
 - 10x Blank DSA Keycaps
 - 4x M3x16 Bolt
